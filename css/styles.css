@@ -1,0 +1,41 @@
+body{
+  background-color: #A5F1E969;
+}
+
+img{
+  height: 150px;
+  width: 150px;
+}
+
+hr{
+  width: 9%;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 4px;
+}
+
+h1{
+  color: #66BFBF;
+}
+
+h3{
+  color: #66BFBF;
+}
+
+h2{
+  color: #66BFBF;
+}
+
+.education{
+  color: black;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+.name:hover{
+  color: gold;
+  /* font-size: 166px; */
+}
